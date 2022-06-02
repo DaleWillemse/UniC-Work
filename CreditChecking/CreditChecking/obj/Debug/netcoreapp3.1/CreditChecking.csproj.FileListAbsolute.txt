@@ -1,0 +1,13 @@
+C:\Users\DaleWillemse\Desktop\BelgiumCampus\FirstYear\PRG182\PRG182 Project 1\CreditChecking\CreditChecking\bin\Debug\netcoreapp3.1\CreditChecking.exe
+C:\Users\DaleWillemse\Desktop\BelgiumCampus\FirstYear\PRG182\PRG182 Project 1\CreditChecking\CreditChecking\bin\Debug\netcoreapp3.1\CreditChecking.deps.json
+C:\Users\DaleWillemse\Desktop\BelgiumCampus\FirstYear\PRG182\PRG182 Project 1\CreditChecking\CreditChecking\bin\Debug\netcoreapp3.1\CreditChecking.runtimeconfig.json
+C:\Users\DaleWillemse\Desktop\BelgiumCampus\FirstYear\PRG182\PRG182 Project 1\CreditChecking\CreditChecking\bin\Debug\netcoreapp3.1\CreditChecking.runtimeconfig.dev.json
+C:\Users\DaleWillemse\Desktop\BelgiumCampus\FirstYear\PRG182\PRG182 Project 1\CreditChecking\CreditChecking\bin\Debug\netcoreapp3.1\CreditChecking.dll
+C:\Users\DaleWillemse\Desktop\BelgiumCampus\FirstYear\PRG182\PRG182 Project 1\CreditChecking\CreditChecking\bin\Debug\netcoreapp3.1\CreditChecking.pdb
+C:\Users\DaleWillemse\Desktop\BelgiumCampus\FirstYear\PRG182\PRG182 Project 1\CreditChecking\CreditChecking\obj\Debug\netcoreapp3.1\CreditChecking.csproj.AssemblyReference.cache
+C:\Users\DaleWillemse\Desktop\BelgiumCampus\FirstYear\PRG182\PRG182 Project 1\CreditChecking\CreditChecking\obj\Debug\netcoreapp3.1\CreditChecking.AssemblyInfoInputs.cache
+C:\Users\DaleWillemse\Desktop\BelgiumCampus\FirstYear\PRG182\PRG182 Project 1\CreditChecking\CreditChecking\obj\Debug\netcoreapp3.1\CreditChecking.AssemblyInfo.cs
+C:\Users\DaleWillemse\Desktop\BelgiumCampus\FirstYear\PRG182\PRG182 Project 1\CreditChecking\CreditChecking\obj\Debug\netcoreapp3.1\CreditChecking.csproj.CoreCompileInputs.cache
+C:\Users\DaleWillemse\Desktop\BelgiumCampus\FirstYear\PRG182\PRG182 Project 1\CreditChecking\CreditChecking\obj\Debug\netcoreapp3.1\CreditChecking.dll
+C:\Users\DaleWillemse\Desktop\BelgiumCampus\FirstYear\PRG182\PRG182 Project 1\CreditChecking\CreditChecking\obj\Debug\netcoreapp3.1\CreditChecking.pdb
+C:\Users\DaleWillemse\Desktop\BelgiumCampus\FirstYear\PRG182\PRG182 Project 1\CreditChecking\CreditChecking\obj\Debug\netcoreapp3.1\CreditChecking.genruntimeconfig.cache
