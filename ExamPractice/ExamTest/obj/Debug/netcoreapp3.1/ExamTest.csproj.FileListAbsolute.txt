@@ -1,0 +1,13 @@
+C:\Users\DaleWillemse\source\repos\ExamTest\ExamTest\bin\Debug\netcoreapp3.1\ExamTest.exe
+C:\Users\DaleWillemse\source\repos\ExamTest\ExamTest\bin\Debug\netcoreapp3.1\ExamTest.deps.json
+C:\Users\DaleWillemse\source\repos\ExamTest\ExamTest\bin\Debug\netcoreapp3.1\ExamTest.runtimeconfig.json
+C:\Users\DaleWillemse\source\repos\ExamTest\ExamTest\bin\Debug\netcoreapp3.1\ExamTest.runtimeconfig.dev.json
+C:\Users\DaleWillemse\source\repos\ExamTest\ExamTest\bin\Debug\netcoreapp3.1\ExamTest.dll
+C:\Users\DaleWillemse\source\repos\ExamTest\ExamTest\bin\Debug\netcoreapp3.1\ExamTest.pdb
+C:\Users\DaleWillemse\source\repos\ExamTest\ExamTest\obj\Debug\netcoreapp3.1\ExamTest.csproj.AssemblyReference.cache
+C:\Users\DaleWillemse\source\repos\ExamTest\ExamTest\obj\Debug\netcoreapp3.1\ExamTest.AssemblyInfoInputs.cache
+C:\Users\DaleWillemse\source\repos\ExamTest\ExamTest\obj\Debug\netcoreapp3.1\ExamTest.AssemblyInfo.cs
+C:\Users\DaleWillemse\source\repos\ExamTest\ExamTest\obj\Debug\netcoreapp3.1\ExamTest.csproj.CoreCompileInputs.cache
+C:\Users\DaleWillemse\source\repos\ExamTest\ExamTest\obj\Debug\netcoreapp3.1\ExamTest.dll
+C:\Users\DaleWillemse\source\repos\ExamTest\ExamTest\obj\Debug\netcoreapp3.1\ExamTest.pdb
+C:\Users\DaleWillemse\source\repos\ExamTest\ExamTest\obj\Debug\netcoreapp3.1\ExamTest.genruntimeconfig.cache
