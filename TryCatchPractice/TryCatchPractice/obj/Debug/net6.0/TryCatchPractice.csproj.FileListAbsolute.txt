@@ -1,0 +1,15 @@
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\classPractice\TryCatchPractice\TryCatchPractice\bin\Debug\net6.0\TryCatchPractice.exe
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\classPractice\TryCatchPractice\TryCatchPractice\bin\Debug\net6.0\TryCatchPractice.deps.json
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\classPractice\TryCatchPractice\TryCatchPractice\bin\Debug\net6.0\TryCatchPractice.runtimeconfig.json
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\classPractice\TryCatchPractice\TryCatchPractice\bin\Debug\net6.0\TryCatchPractice.dll
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\classPractice\TryCatchPractice\TryCatchPractice\bin\Debug\net6.0\TryCatchPractice.pdb
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\classPractice\TryCatchPractice\TryCatchPractice\obj\Debug\net6.0\TryCatchPractice.csproj.AssemblyReference.cache
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\classPractice\TryCatchPractice\TryCatchPractice\obj\Debug\net6.0\TryCatchPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\classPractice\TryCatchPractice\TryCatchPractice\obj\Debug\net6.0\TryCatchPractice.AssemblyInfoInputs.cache
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\classPractice\TryCatchPractice\TryCatchPractice\obj\Debug\net6.0\TryCatchPractice.AssemblyInfo.cs
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\classPractice\TryCatchPractice\TryCatchPractice\obj\Debug\net6.0\TryCatchPractice.csproj.CoreCompileInputs.cache
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\classPractice\TryCatchPractice\TryCatchPractice\obj\Debug\net6.0\TryCatchPractice.dll
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\classPractice\TryCatchPractice\TryCatchPractice\obj\Debug\net6.0\refint\TryCatchPractice.dll
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\classPractice\TryCatchPractice\TryCatchPractice\obj\Debug\net6.0\TryCatchPractice.pdb
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\classPractice\TryCatchPractice\TryCatchPractice\obj\Debug\net6.0\TryCatchPractice.genruntimeconfig.cache
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\classPractice\TryCatchPractice\TryCatchPractice\obj\Debug\net6.0\ref\TryCatchPractice.dll

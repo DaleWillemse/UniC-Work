@@ -1,0 +1,15 @@
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\classPractice\ThreadingPractice\ThreadingPractice\bin\Debug\net6.0\ThreadingPractice.exe
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\classPractice\ThreadingPractice\ThreadingPractice\bin\Debug\net6.0\ThreadingPractice.deps.json
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\classPractice\ThreadingPractice\ThreadingPractice\bin\Debug\net6.0\ThreadingPractice.runtimeconfig.json
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\classPractice\ThreadingPractice\ThreadingPractice\bin\Debug\net6.0\ThreadingPractice.dll
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\classPractice\ThreadingPractice\ThreadingPractice\bin\Debug\net6.0\ThreadingPractice.pdb
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\classPractice\ThreadingPractice\ThreadingPractice\obj\Debug\net6.0\ThreadingPractice.csproj.AssemblyReference.cache
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\classPractice\ThreadingPractice\ThreadingPractice\obj\Debug\net6.0\ThreadingPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\classPractice\ThreadingPractice\ThreadingPractice\obj\Debug\net6.0\ThreadingPractice.AssemblyInfoInputs.cache
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\classPractice\ThreadingPractice\ThreadingPractice\obj\Debug\net6.0\ThreadingPractice.AssemblyInfo.cs
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\classPractice\ThreadingPractice\ThreadingPractice\obj\Debug\net6.0\ThreadingPractice.csproj.CoreCompileInputs.cache
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\classPractice\ThreadingPractice\ThreadingPractice\obj\Debug\net6.0\ThreadingPractice.dll
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\classPractice\ThreadingPractice\ThreadingPractice\obj\Debug\net6.0\refint\ThreadingPractice.dll
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\classPractice\ThreadingPractice\ThreadingPractice\obj\Debug\net6.0\ThreadingPractice.pdb
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\classPractice\ThreadingPractice\ThreadingPractice\obj\Debug\net6.0\ThreadingPractice.genruntimeconfig.cache
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\classPractice\ThreadingPractice\ThreadingPractice\obj\Debug\net6.0\ref\ThreadingPractice.dll
