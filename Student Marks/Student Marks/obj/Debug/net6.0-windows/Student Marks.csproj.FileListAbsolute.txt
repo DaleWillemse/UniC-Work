@@ -1,0 +1,17 @@
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\Student Marks\Student Marks\bin\Debug\net6.0-windows\Student Marks.exe
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\Student Marks\Student Marks\bin\Debug\net6.0-windows\Student Marks.deps.json
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\Student Marks\Student Marks\bin\Debug\net6.0-windows\Student Marks.runtimeconfig.json
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\Student Marks\Student Marks\bin\Debug\net6.0-windows\Student Marks.dll
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\Student Marks\Student Marks\bin\Debug\net6.0-windows\Student Marks.pdb
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\Student Marks\Student Marks\obj\Debug\net6.0-windows\Student Marks.csproj.AssemblyReference.cache
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\Student Marks\Student Marks\obj\Debug\net6.0-windows\Student_Marks.Form1.resources
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\Student Marks\Student Marks\obj\Debug\net6.0-windows\Student Marks.csproj.GenerateResource.cache
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\Student Marks\Student Marks\obj\Debug\net6.0-windows\Student Marks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\Student Marks\Student Marks\obj\Debug\net6.0-windows\Student Marks.AssemblyInfoInputs.cache
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\Student Marks\Student Marks\obj\Debug\net6.0-windows\Student Marks.AssemblyInfo.cs
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\Student Marks\Student Marks\obj\Debug\net6.0-windows\Student Marks.csproj.CoreCompileInputs.cache
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\Student Marks\Student Marks\obj\Debug\net6.0-windows\Student Marks.dll
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\Student Marks\Student Marks\obj\Debug\net6.0-windows\refint\Student Marks.dll
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\Student Marks\Student Marks\obj\Debug\net6.0-windows\Student Marks.pdb
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\Student Marks\Student Marks\obj\Debug\net6.0-windows\Student Marks.genruntimeconfig.cache
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\Student Marks\Student Marks\obj\Debug\net6.0-windows\ref\Student Marks.dll

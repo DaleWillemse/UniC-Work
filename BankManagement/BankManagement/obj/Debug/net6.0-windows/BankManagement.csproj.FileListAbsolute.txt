@@ -1,0 +1,17 @@
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\BankManagement\BankManagement\bin\Debug\net6.0-windows\BankManagement.exe
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\BankManagement\BankManagement\bin\Debug\net6.0-windows\BankManagement.deps.json
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\BankManagement\BankManagement\bin\Debug\net6.0-windows\BankManagement.runtimeconfig.json
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\BankManagement\BankManagement\bin\Debug\net6.0-windows\BankManagement.dll
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\BankManagement\BankManagement\bin\Debug\net6.0-windows\BankManagement.pdb
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\BankManagement\BankManagement\obj\Debug\net6.0-windows\BankManagement.csproj.AssemblyReference.cache
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\BankManagement\BankManagement\obj\Debug\net6.0-windows\BankManagement.Form1.resources
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\BankManagement\BankManagement\obj\Debug\net6.0-windows\BankManagement.csproj.GenerateResource.cache
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\BankManagement\BankManagement\obj\Debug\net6.0-windows\BankManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\BankManagement\BankManagement\obj\Debug\net6.0-windows\BankManagement.AssemblyInfoInputs.cache
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\BankManagement\BankManagement\obj\Debug\net6.0-windows\BankManagement.AssemblyInfo.cs
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\BankManagement\BankManagement\obj\Debug\net6.0-windows\BankManagement.csproj.CoreCompileInputs.cache
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\BankManagement\BankManagement\obj\Debug\net6.0-windows\BankManagement.dll
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\BankManagement\BankManagement\obj\Debug\net6.0-windows\refint\BankManagement.dll
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\BankManagement\BankManagement\obj\Debug\net6.0-windows\BankManagement.pdb
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\BankManagement\BankManagement\obj\Debug\net6.0-windows\BankManagement.genruntimeconfig.cache
+C:\Users\Dale\Desktop\BelgiumCampus\SecondYear\PRG281\code\windowsPractice\BankManagement\BankManagement\obj\Debug\net6.0-windows\ref\BankManagement.dll
