@@ -1,0 +1,15 @@
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\fileReadingWriting\fileReadingWriting\bin\Debug\net6.0\fileReadingWriting.exe
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\fileReadingWriting\fileReadingWriting\bin\Debug\net6.0\fileReadingWriting.deps.json
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\fileReadingWriting\fileReadingWriting\bin\Debug\net6.0\fileReadingWriting.runtimeconfig.json
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\fileReadingWriting\fileReadingWriting\bin\Debug\net6.0\fileReadingWriting.dll
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\fileReadingWriting\fileReadingWriting\bin\Debug\net6.0\fileReadingWriting.pdb
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\fileReadingWriting\fileReadingWriting\obj\Debug\net6.0\fileReadingWriting.csproj.AssemblyReference.cache
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\fileReadingWriting\fileReadingWriting\obj\Debug\net6.0\fileReadingWriting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\fileReadingWriting\fileReadingWriting\obj\Debug\net6.0\fileReadingWriting.AssemblyInfoInputs.cache
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\fileReadingWriting\fileReadingWriting\obj\Debug\net6.0\fileReadingWriting.AssemblyInfo.cs
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\fileReadingWriting\fileReadingWriting\obj\Debug\net6.0\fileReadingWriting.csproj.CoreCompileInputs.cache
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\fileReadingWriting\fileReadingWriting\obj\Debug\net6.0\fileReadingWriting.dll
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\fileReadingWriting\fileReadingWriting\obj\Debug\net6.0\refint\fileReadingWriting.dll
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\fileReadingWriting\fileReadingWriting\obj\Debug\net6.0\fileReadingWriting.pdb
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\fileReadingWriting\fileReadingWriting\obj\Debug\net6.0\fileReadingWriting.genruntimeconfig.cache
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\fileReadingWriting\fileReadingWriting\obj\Debug\net6.0\ref\fileReadingWriting.dll
