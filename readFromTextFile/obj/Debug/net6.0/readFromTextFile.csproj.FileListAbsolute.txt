@@ -1,0 +1,15 @@
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\readFromTextFile\readFromTextFile\bin\Debug\net6.0\readFromTextFile.exe
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\readFromTextFile\readFromTextFile\bin\Debug\net6.0\readFromTextFile.deps.json
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\readFromTextFile\readFromTextFile\bin\Debug\net6.0\readFromTextFile.runtimeconfig.json
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\readFromTextFile\readFromTextFile\bin\Debug\net6.0\readFromTextFile.dll
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\readFromTextFile\readFromTextFile\bin\Debug\net6.0\readFromTextFile.pdb
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\readFromTextFile\readFromTextFile\obj\Debug\net6.0\readFromTextFile.csproj.AssemblyReference.cache
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\readFromTextFile\readFromTextFile\obj\Debug\net6.0\readFromTextFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\readFromTextFile\readFromTextFile\obj\Debug\net6.0\readFromTextFile.AssemblyInfoInputs.cache
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\readFromTextFile\readFromTextFile\obj\Debug\net6.0\readFromTextFile.AssemblyInfo.cs
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\readFromTextFile\readFromTextFile\obj\Debug\net6.0\readFromTextFile.csproj.CoreCompileInputs.cache
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\readFromTextFile\readFromTextFile\obj\Debug\net6.0\readFromTextFile.dll
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\readFromTextFile\readFromTextFile\obj\Debug\net6.0\refint\readFromTextFile.dll
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\readFromTextFile\readFromTextFile\obj\Debug\net6.0\readFromTextFile.pdb
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\readFromTextFile\readFromTextFile\obj\Debug\net6.0\readFromTextFile.genruntimeconfig.cache
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\readFromTextFile\readFromTextFile\obj\Debug\net6.0\ref\readFromTextFile.dll
