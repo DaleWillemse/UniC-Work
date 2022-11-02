@@ -1,0 +1,17 @@
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\listExercise\listExercise\bin\Debug\net6.0-windows\listExercise.exe
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\listExercise\listExercise\bin\Debug\net6.0-windows\listExercise.deps.json
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\listExercise\listExercise\bin\Debug\net6.0-windows\listExercise.runtimeconfig.json
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\listExercise\listExercise\bin\Debug\net6.0-windows\listExercise.dll
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\listExercise\listExercise\bin\Debug\net6.0-windows\listExercise.pdb
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\listExercise\listExercise\obj\Debug\net6.0-windows\listExercise.csproj.AssemblyReference.cache
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\listExercise\listExercise\obj\Debug\net6.0-windows\listExercise.ListExercise.resources
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\listExercise\listExercise\obj\Debug\net6.0-windows\listExercise.csproj.GenerateResource.cache
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\listExercise\listExercise\obj\Debug\net6.0-windows\listExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\listExercise\listExercise\obj\Debug\net6.0-windows\listExercise.AssemblyInfoInputs.cache
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\listExercise\listExercise\obj\Debug\net6.0-windows\listExercise.AssemblyInfo.cs
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\listExercise\listExercise\obj\Debug\net6.0-windows\listExercise.csproj.CoreCompileInputs.cache
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\listExercise\listExercise\obj\Debug\net6.0-windows\listExercise.dll
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\listExercise\listExercise\obj\Debug\net6.0-windows\refint\listExercise.dll
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\listExercise\listExercise\obj\Debug\net6.0-windows\listExercise.pdb
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\listExercise\listExercise\obj\Debug\net6.0-windows\listExercise.genruntimeconfig.cache
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\listExercise\listExercise\obj\Debug\net6.0-windows\ref\listExercise.dll
