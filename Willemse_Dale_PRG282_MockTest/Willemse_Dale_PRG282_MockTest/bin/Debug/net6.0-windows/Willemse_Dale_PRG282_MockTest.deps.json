@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Willemse_Dale_PRG282_MockTest/1.0.0": {
+        "runtime": {
+          "Willemse_Dale_PRG282_MockTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Willemse_Dale_PRG282_MockTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
