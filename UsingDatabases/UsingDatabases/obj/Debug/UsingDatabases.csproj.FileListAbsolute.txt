@@ -1,0 +1,13 @@
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\UsingDatabases\UsingDatabases\bin\Debug\Database1.mdf
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\UsingDatabases\UsingDatabases\bin\Debug\Database1_log.ldf
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\UsingDatabases\UsingDatabases\bin\Debug\UsingDatabases.exe.config
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\UsingDatabases\UsingDatabases\bin\Debug\UsingDatabases.exe
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\UsingDatabases\UsingDatabases\bin\Debug\UsingDatabases.pdb
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\UsingDatabases\UsingDatabases\obj\Debug\UsingDatabases.csproj.AssemblyReference.cache
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\UsingDatabases\UsingDatabases\obj\Debug\UsingDatabases.csproj.SuggestedBindingRedirects.cache
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\UsingDatabases\UsingDatabases\obj\Debug\UsingDatabases.Form1.resources
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\UsingDatabases\UsingDatabases\obj\Debug\UsingDatabases.Properties.Resources.resources
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\UsingDatabases\UsingDatabases\obj\Debug\UsingDatabases.csproj.GenerateResource.cache
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\UsingDatabases\UsingDatabases\obj\Debug\UsingDatabases.csproj.CoreCompileInputs.cache
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\UsingDatabases\UsingDatabases\obj\Debug\UsingDatabases.exe
+C:\Users\DaleWillemse\Documents\BelgiumCampus\SecondYear\PRG282\Exercises\UsingDatabases\UsingDatabases\obj\Debug\UsingDatabases.pdb
